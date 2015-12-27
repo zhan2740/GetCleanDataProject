@@ -19,6 +19,6 @@ This is the course project for the Getting and Cleaning Data. The R script,  run
 
 ####5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The end result is shown in the file  tidy.txt .
+The end result is shown in the file  tidydata.txt .
 
 
